@@ -1,0 +1,20 @@
+{
+  "name": "htmlspec-proxy",
+  "version": "0.0.1",
+  "description": "Proxy the HTML spec",
+  "main": "index.js",
+  "author": "Michael[tm] Smith <mike@w3.org>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sideshowbarker/htmlspec-proxy.git"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/sideshowbarker/htmlspec-proxy",
+  "dependencies": {
+    "http-proxy": "~1.17.0"
+  },
+  "engines": {
+    "node": "12.4.0",
+    "npm": "6.9.0"
+  }
+}
